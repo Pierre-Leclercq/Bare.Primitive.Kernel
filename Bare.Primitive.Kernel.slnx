@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Bare.Primitive.Kernel/Bare.Primitive.Kernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Bare.Primitive.Kernel.Tests/Bare.Primitive.Kernel.Tests.csproj" />
+  </Folder>
+</Solution>
